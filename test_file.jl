@@ -20,3 +20,5 @@ end
 println("this line only exists in the branch")
 
 println("this 2nd line only exists in the branch")
+
+println("this line only exists in the branch after the merge")
