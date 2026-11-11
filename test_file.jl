@@ -16,4 +16,8 @@ function test2(a, b, c)
     return a + b + c
 end
 
+
+println("this line only exists in the branch")
+
+println("this 2nd line only exists in the branch")
 println("this line is only in the main branch")
